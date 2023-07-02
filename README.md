@@ -10,7 +10,10 @@ from small and imbalanced one-hot encoded datasets. This paper also introduces t
 the stability and variance of the generative adversarial network in this setting. The proposed method demonstrates
 meaningful improvement on a well-studied petrographical dataset with significant class imbalance.
 
+_You can find the full paper in the root of the repo._
+
 ### Repo
-"GAN-SMOTE.ipynb" implements the GAN-SMOTE architecture.
-"Benchmark test for GAN-SMOTE.ipynb" displays benchmark test code and outcomes.
-"utils.py" contains helper functions that help with data display (credit: https://github.com/diegoalejogm/gans/blob/master/1.%20Vanilla%20GAN%20PyTorch.ipynb)
+"implementation/GAN-SMOTE implementation.ipynb" implements the GAN-SMOTE architecture.
+Install the requirements in the Pipfile and open the file in Jupyter.
+
+If you have any questions, please contact Mitch (mitchscott94@gmail.com)
